@@ -1,6 +1,6 @@
 # Using Core Data to Save Data
 
-How to save data to the system and how to call it again.
+In this repo, core data is used to save a number to memory and then recalling it again.
 
 ## Tech Specs
 
