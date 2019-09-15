@@ -1,4 +1,4 @@
-# Using Core Data to save data
+# Using Core Data to Save Data
 
 How to save data to the system and how to call it again.
 
@@ -7,10 +7,7 @@ How to save data to the system and how to call it again.
 - iOS 12.2
 - Swift 5
 
-<p align="left">
-  <img src="Images/screenshot1.png" width="350" title="hover text">
+<p>
+  <img align="left" style="padding: 10px;" src="images/image1.png" width="350" title="Image 1">
+  <img align="right" style="padding: 10px;" src="images/image2.png" width="350" title="Image 2">
 </p>
-
-<p align="center">
-  <img src="Images/screenshot2.png" width="350" title="hover text">
-</p># core-data-snippet
