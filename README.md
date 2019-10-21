@@ -4,7 +4,7 @@ In this repo, ```CoreData``` is used to save a number to memory and then calling
 
 ## Tech Specs
 
-- iOS 12.2
+- Supports iOS 12 and iOS 13
 - Swift 5
 
 <p>
